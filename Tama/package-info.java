@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author perda
- *
- */
-package Tama;
